@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.core:core-ktx:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\12d1912dba0c161a8052a8b454456f50\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7b11ae9be5cf161dbf62253498a5c749\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8e28ad90360d7d5de234b682c36ba502\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6f89291fec443c4cb8ba46dfafbadccc\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b82d62564f4018ded7eefd42b0b140ed\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b229c493c2909971f5336558be454927\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c55e3cc339060870225a5cb720d8a84c\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\05cbb8566f6b9fd8222ee4c3d9772f16\transformed\jetified-sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6591cb2a5007860a22155173684127d9\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\9b1d21101f76b8bef8845890419027fb\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\679afda053e59c63b0ea9cb5b2648060\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\06f3b7b959bb045316488c3beaf45224\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e5a17030e8533e8a813525dda00531d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\0d553223bbde6eafc37570189ada1037\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2058693204047f4ec92e31231011dc86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d94ef69ff73e3b242b650a2b4a9edc62\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7a6445333f9c66e2cc9353c3c7aa0241\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\24ef7e9ecff5aa76018078edfa2eaece\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4a59b5cae75a37f6ab1d5a8d0573fc55\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2993a1264a2e1dbd8ed2ef1996360e43\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\641de26ef8eb4f1c0a548bee8ec0f730\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\ea286153c887c8a2be2e9c1674fca135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d5187083c68148adf2573555ba616940\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f2453f4982f27c58572efa279b757587\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4654f3aa264f1377926121658c135bf4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\669830ed1438494a2f058627a199a42e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f77210cb7967f167ea93a61c5fb922f4\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\a13cac6f63a547cefde6d37fe2bf27cd\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d9ffe18719ad918b61ccda928316d439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7663752a0542a2a9bc724f3890cf56d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\be8e4b4c63febb952257cfe3e1339006\transformed\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b22070c7604c07a9d40dacdca7143cac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\db592ac558fa1669838bd8ea1fcc4dfe\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f3b83cd770b2d6361f5bf56e792064a3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e31ce6f225ee81730bc361090e546773\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8dfa4bde4754b20cff9725bd92861552\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e1b9af0e147172191f99396618a72578\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b1bdb62b8b36d189cea29b4a73715822\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18d5ce1644f9a906dc4efea9fbc483e6\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18a92708c71bf2b73d22af2caced2617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c38cdecdaa117e38a0803e65a83f0fb6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:6:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.CAMERA
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:14:22-62
+application
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:16:5-36:19
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:16:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7b11ae9be5cf161dbf62253498a5c749\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7b11ae9be5cf161dbf62253498a5c749\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8e28ad90360d7d5de234b682c36ba502\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8e28ad90360d7d5de234b682c36ba502\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6591cb2a5007860a22155173684127d9\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6591cb2a5007860a22155173684127d9\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b22070c7604c07a9d40dacdca7143cac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b22070c7604c07a9d40dacdca7143cac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f3b83cd770b2d6361f5bf56e792064a3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f3b83cd770b2d6361f5bf56e792064a3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:20:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:21:9-54
+	tools:targetApi
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:24:9-28
+	android:icon
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.azhar.note.activities.SplashActivity
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:exported
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:25:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.azhar.note.activities.MainActivity
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:34:9-75
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:34:19-72
+activity#com.azhar.note.activities.CreateNoteActivity
+ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:35:19-78
+uses-sdk
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\12d1912dba0c161a8052a8b454456f50\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\12d1912dba0c161a8052a8b454456f50\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7b11ae9be5cf161dbf62253498a5c749\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7b11ae9be5cf161dbf62253498a5c749\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8e28ad90360d7d5de234b682c36ba502\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8e28ad90360d7d5de234b682c36ba502\transformed\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6f89291fec443c4cb8ba46dfafbadccc\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6f89291fec443c4cb8ba46dfafbadccc\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b82d62564f4018ded7eefd42b0b140ed\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b82d62564f4018ded7eefd42b0b140ed\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b229c493c2909971f5336558be454927\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b229c493c2909971f5336558be454927\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c55e3cc339060870225a5cb720d8a84c\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c55e3cc339060870225a5cb720d8a84c\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\05cbb8566f6b9fd8222ee4c3d9772f16\transformed\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\05cbb8566f6b9fd8222ee4c3d9772f16\transformed\jetified-sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6591cb2a5007860a22155173684127d9\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\6591cb2a5007860a22155173684127d9\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\9b1d21101f76b8bef8845890419027fb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\9b1d21101f76b8bef8845890419027fb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\679afda053e59c63b0ea9cb5b2648060\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\679afda053e59c63b0ea9cb5b2648060\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\06f3b7b959bb045316488c3beaf45224\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\06f3b7b959bb045316488c3beaf45224\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e5a17030e8533e8a813525dda00531d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e5a17030e8533e8a813525dda00531d3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\0d553223bbde6eafc37570189ada1037\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\0d553223bbde6eafc37570189ada1037\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2058693204047f4ec92e31231011dc86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2058693204047f4ec92e31231011dc86\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d94ef69ff73e3b242b650a2b4a9edc62\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d94ef69ff73e3b242b650a2b4a9edc62\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7a6445333f9c66e2cc9353c3c7aa0241\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7a6445333f9c66e2cc9353c3c7aa0241\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\24ef7e9ecff5aa76018078edfa2eaece\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\24ef7e9ecff5aa76018078edfa2eaece\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4a59b5cae75a37f6ab1d5a8d0573fc55\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4a59b5cae75a37f6ab1d5a8d0573fc55\transformed\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2993a1264a2e1dbd8ed2ef1996360e43\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\2993a1264a2e1dbd8ed2ef1996360e43\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\641de26ef8eb4f1c0a548bee8ec0f730\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\641de26ef8eb4f1c0a548bee8ec0f730\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\ea286153c887c8a2be2e9c1674fca135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\ea286153c887c8a2be2e9c1674fca135\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d5187083c68148adf2573555ba616940\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d5187083c68148adf2573555ba616940\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f2453f4982f27c58572efa279b757587\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f2453f4982f27c58572efa279b757587\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4654f3aa264f1377926121658c135bf4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\4654f3aa264f1377926121658c135bf4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\669830ed1438494a2f058627a199a42e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\669830ed1438494a2f058627a199a42e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f77210cb7967f167ea93a61c5fb922f4\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f77210cb7967f167ea93a61c5fb922f4\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\a13cac6f63a547cefde6d37fe2bf27cd\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\a13cac6f63a547cefde6d37fe2bf27cd\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d9ffe18719ad918b61ccda928316d439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\d9ffe18719ad918b61ccda928316d439\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7663752a0542a2a9bc724f3890cf56d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7663752a0542a2a9bc724f3890cf56d3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\be8e4b4c63febb952257cfe3e1339006\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\be8e4b4c63febb952257cfe3e1339006\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b22070c7604c07a9d40dacdca7143cac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b22070c7604c07a9d40dacdca7143cac\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\db592ac558fa1669838bd8ea1fcc4dfe\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\db592ac558fa1669838bd8ea1fcc4dfe\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f3b83cd770b2d6361f5bf56e792064a3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\f3b83cd770b2d6361f5bf56e792064a3\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e31ce6f225ee81730bc361090e546773\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e31ce6f225ee81730bc361090e546773\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8dfa4bde4754b20cff9725bd92861552\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\8dfa4bde4754b20cff9725bd92861552\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e1b9af0e147172191f99396618a72578\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\e1b9af0e147172191f99396618a72578\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b1bdb62b8b36d189cea29b4a73715822\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\b1bdb62b8b36d189cea29b4a73715822\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18d5ce1644f9a906dc4efea9fbc483e6\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18d5ce1644f9a906dc4efea9fbc483e6\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18a92708c71bf2b73d22af2caced2617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\18a92708c71bf2b73d22af2caced2617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c38cdecdaa117e38a0803e65a83f0fb6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\c38cdecdaa117e38a0803e65a83f0fb6\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74

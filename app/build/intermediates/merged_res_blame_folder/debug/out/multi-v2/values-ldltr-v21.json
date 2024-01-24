@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.azhar.modelNote.app-mergeDebugResources-14:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\KULIAH\\SEMESTER 5\\PAB\\MyRealtimeApp\\caches\\transforms-3\\6f89291fec443c4cb8ba46dfafbadccc\\transformed\\appcompat-1.2.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

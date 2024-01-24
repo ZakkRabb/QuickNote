@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.note"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-feature
+11-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:5:5-7:35
+12        android:name="android.hardware.camera"
+12-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:6:9-47
+13        android:required="true" />
+13-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:9:5-80
+15-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+16-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:10:5-71
+16-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:10:22-68
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:11:5-81
+17-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:12:5-67
+18-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:13:5-68
+19-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:13:22-65
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:14:5-65
+20-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:14:22-62
+21
+22    <application
+22-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:16:5-36:19
+23        android:allowBackup="true"
+23-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:17:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.3.2] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\972454ed85a9b8259c54e1f5d231aea2\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:18:9-43
+28        android:label="@string/app_name"
+28-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:19:9-41
+29        android:requestLegacyExternalStorage="true"
+29-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:20:9-52
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:21:9-54
+31        android:supportsRtl="true"
+31-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:23:9-40
+34        <activity
+34-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:25:9-33:20
+35            android:name="com.azhar.note.activities.SplashActivity"
+35-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:25:19-74
+36            android:exported="true"
+36-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:27:13-36
+37            android:theme="@style/SplashActivityTheme" >
+37-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:26:13-55
+38            <intent-filter>
+38-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:28:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:29:17-69
+39-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:29:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:31:17-77
+41-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:31:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity android:name="com.azhar.note.activities.MainActivity" />
+44-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:34:9-75
+44-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:34:19-72
+45        <activity android:name="com.azhar.note.activities.CreateNoteActivity" />
+45-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:35:9-80
+45-->D:\KULIAH\SEMESTER 5\PAB\TubesPab\app\src\main\AndroidManifest.xml:35:19-78
+46
+47        <service
+47-->[androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+48            android:name="androidx.room.MultiInstanceInvalidationService"
+48-->[androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+49            android:directBootAware="true"
+49-->[androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+50            android:exported="false" />
+50-->[androidx.room:room-runtime:2.2.6] D:\KULIAH\SEMESTER 5\PAB\MyRealtimeApp\caches\transforms-3\7f4240c2c687882f2a3e50765ad0fb7c\transformed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+51    </application>
+52
+53</manifest>
